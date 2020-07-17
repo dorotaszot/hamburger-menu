@@ -2,7 +2,7 @@
   --primary-color: rgba(55, 78, 139, 0.75);
   --secondary-color: rgb(250, 213, 102);
   --overlay-color: rgba(21, 37, 82, 0.85);
-  --menu-speed: 0.75s;
+  --menu-speed: 1s;
 }
 
 * {
